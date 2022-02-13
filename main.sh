@@ -4,7 +4,7 @@ printf "Compiling..."
 # This line needs to be changed to whatever folder 
 # you are running code out of
 javac HW1/*.java 
-if [ $? ==a 0 ] 
+if [ $? == 0 ] 
 then
     clear
     # This line needs to be changed based off the name of the 
