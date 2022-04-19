@@ -8,6 +8,8 @@
 Front Man: Greg Walsh
 PROJECT 3 - SPRING 2022 - P&PS1
 EMAIL ME WHAT VERSION YOU WOULD LIKE AND I WILL ADD YOU TO A PRIVATE REPO 
+MAKE SURE YOU EMAIL ME YOUR GITHUB USERNAME!!!! IF YOU DON'T HAVE ONE I WILL SEND THE CODE
+BUT GITHUB IS EASIER
 
 Task: Create a version of Episode 7 of Squid Games on Netflix.
 More information can be found here:
