@@ -33,9 +33,9 @@ public class Loops {
     //Have been removed. Except do not remove a z at the start
     //or end
     //Ex.
-    //stringT("zHelloz") -> "zHelloz"
-    //stringT("nozthaznks") -> "nothanks"
-    //stringT("xksiazdjaasldzsajzasdz") -> "xksiadjaasldsajasdz"
+    //stringZ("zHelloz") -> "zHelloz"
+    //stringZ("nozthaznks") -> "nothanks"
+    //stringZ("xksiazdjaasldzsajzasdz") -> "xksiadjaasldsajasdz"
     public static String stringZ(String str){
         return null; // <- this should be changed 
     }
